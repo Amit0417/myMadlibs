@@ -1,4 +1,5 @@
 import random
+# Importing matlab's from rMad directory
 from rMad import random1, random2, random3, random4, random5, random6
 
 if __name__ == '__main__':
